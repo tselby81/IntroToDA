@@ -1,0 +1,11 @@
+[{ "name": "Adam", "age": 35, "salary": 1000  },
+{ "name": "Tyler B", "age": 23, "salary": 500  },
+{ "name": "Tyler", "age": 21, "salary": 600  },
+{ "name": "Zach", "age": 20, "salary": 200  },
+{ "name": "Safal", "age": 24, "salary": 200  },
+{ "name": "Belle", "age": 21, "salary": 300  },
+{ "name": "Kao", "age": 28, "salary": 900  },
+{ "name": "Jim", "age": 18, "salary": 100  },
+{ "name": "Ben", "age": 20, "salary": 80  },
+{ "name": "Sam", "age": 23, "salary": 180  }
+]
